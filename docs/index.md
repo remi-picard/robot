@@ -40,7 +40,7 @@ hide:
 ## Solutions
 
 - [API Booker](https://github.com/remi-picard/robot-examples/blob/master/tests/booker/booker.robot){target="_blank"}
-- [TODO MVC](https://github.com/remi-picard/robot-examples/tree/master/tests/todo_mvc){target="_blank"}
+- [TODO MVC](https://github.com/remi-picard/robot-examples/blob/master/tests/todo_mvc/todo_mvc.robot){target="_blank"}
 - [Jeu](https://github.com/remi-picard/robot-examples/blob/master/tests/robot_flower_princess/robot_flower_princess.robot){target="_blank"}
 
 !!! warning "Spoiler Alert !"
