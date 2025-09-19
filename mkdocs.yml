@@ -1,0 +1,27 @@
+site_name: Formation Robot Framework 🤖
+site_description: Page d'accueil de la formation Robot Framework
+site_author: Rémi PICARD
+
+extra_css:
+  - styles.css
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
+
+markdown_extensions:
+  - attr_list
+  - admonition
